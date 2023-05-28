@@ -7,6 +7,6 @@ This challenge is from Frontend Mentor. they provided the blueprint then we have
 
  css box shadow effects - https://getcssscan.com/css-box-shadow-examples
 
- my answer - http://naprojects.rf.gd/profilecard/index.html
+ my answer - https://nipun-dezoysa.github.io/profile-card-component/http://naprojects.rf.gd/profilecard/index.html
 
 
